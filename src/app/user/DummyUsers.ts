@@ -2,27 +2,27 @@ export const DUMMY_USERS = [
   {
     id: 1,
     name: "John Doe",
-    avatar: "https://i.pravatar.cc/150?img=1",
+    avatar: "user-1.png",
   },
   {
     id: 2,
     name: "Emma Watson",
-    avatar: "https://i.pravatar.cc/150?img=2",
+    avatar: "user-2.png",
   },
   {
     id: 3,
     name: "Michael Johnson",
-    avatar: "https://i.pravatar.cc/150?img=3",
+    avatar: "user-3.png",
   },
   {
     id: 4,
     name: "Sophia Williams",
-    avatar: "https://i.pravatar.cc/150?img=4",
+    avatar: "user-4.png",
   },
   {
     id: 5,
     name: "David Brown",
-    avatar: "https://i.pravatar.cc/150?img=5",
+    avatar: "user-5.png",
   },
 ];
 
